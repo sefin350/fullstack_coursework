@@ -19,7 +19,7 @@
 6. Copy project folder to:
    htdocs/ (XAMPP)
 7. Open browser:
-   http://localhost/your-project-folder/
+   http://localhost/project-folder/
 
 
 – List of features implemented
